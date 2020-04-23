@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/React_Company_Portfolio_website/static/css/main.a8b70a9a.chunk.css",
+    "main.js": "/React_Company_Portfolio_website/static/js/main.1ee6fe8c.chunk.js",
+    "main.js.map": "/React_Company_Portfolio_website/static/js/main.1ee6fe8c.chunk.js.map",
+    "runtime-main.js": "/React_Company_Portfolio_website/static/js/runtime-main.db8d30da.js",
+    "runtime-main.js.map": "/React_Company_Portfolio_website/static/js/runtime-main.db8d30da.js.map",
+    "static/css/2.3c515868.chunk.css": "/React_Company_Portfolio_website/static/css/2.3c515868.chunk.css",
+    "static/js/2.e6892cb5.chunk.js": "/React_Company_Portfolio_website/static/js/2.e6892cb5.chunk.js",
+    "static/js/2.e6892cb5.chunk.js.map": "/React_Company_Portfolio_website/static/js/2.e6892cb5.chunk.js.map",
+    "index.html": "/React_Company_Portfolio_website/index.html",
+    "precache-manifest.3d79a2938c7db89b8898343ad33a354c.js": "/React_Company_Portfolio_website/precache-manifest.3d79a2938c7db89b8898343ad33a354c.js",
+    "service-worker.js": "/React_Company_Portfolio_website/service-worker.js",
+    "static/css/2.3c515868.chunk.css.map": "/React_Company_Portfolio_website/static/css/2.3c515868.chunk.css.map",
+    "static/css/main.a8b70a9a.chunk.css.map": "/React_Company_Portfolio_website/static/css/main.a8b70a9a.chunk.css.map",
+    "static/js/2.e6892cb5.chunk.js.LICENSE.txt": "/React_Company_Portfolio_website/static/js/2.e6892cb5.chunk.js.LICENSE.txt",
+    "static/media/01-thumbnail.jpg": "/React_Company_Portfolio_website/static/media/01-thumbnail.eda45981.jpg",
+    "static/media/02-thumbnail.jpg": "/React_Company_Portfolio_website/static/media/02-thumbnail.e52270b3.jpg",
+    "static/media/03-thumbnail.jpg": "/React_Company_Portfolio_website/static/media/03-thumbnail.09c41872.jpg",
+    "static/media/04-thumbnail.jpg": "/React_Company_Portfolio_website/static/media/04-thumbnail.80c8ff5c.jpg",
+    "static/media/05-thumbnail.jpg": "/React_Company_Portfolio_website/static/media/05-thumbnail.68d8d949.jpg",
+    "static/media/06-thumbnail.jpg": "/React_Company_Portfolio_website/static/media/06-thumbnail.20456fff.jpg",
+    "static/media/1.jpg": "/React_Company_Portfolio_website/static/media/1.96e57c9c.jpg",
+    "static/media/2.jpg": "/React_Company_Portfolio_website/static/media/2.3183a0e6.jpg",
+    "static/media/about.jpg": "/React_Company_Portfolio_website/static/media/about.e509badf.jpg",
+    "static/media/header-bg.jpg": "/React_Company_Portfolio_website/static/media/header-bg.e2d2a51c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db8d30da.js",
+    "static/css/2.3c515868.chunk.css",
+    "static/js/2.e6892cb5.chunk.js",
+    "static/css/main.a8b70a9a.chunk.css",
+    "static/js/main.1ee6fe8c.chunk.js"
+  ]
+}
